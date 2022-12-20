@@ -1,4 +1,4 @@
-# Kullanıcı Bilgileri Uygulama
+# Kullanıcı Bilgileri Listeleme Uygulaması
 
 - Kullanıcının bilgilerinin alınması, veritabanına kaydedilmesi, güncellenmesi, silinmesi işlemleri bulunuyor.
 
